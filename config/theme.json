@@ -1,0 +1,26 @@
+{
+  "colors": {
+        "default": {
+        "theme_color": {
+        "primary": "#FFC60B",
+        "body": "#fff",
+        "border": "#181818",
+        "theme_light": "#FFEAA5"
+      },
+      "text_color": {
+        "default": "#777",
+        "dark": "#222"
+      }
+    }
+  },
+  "fonts": {
+    "font_family": {
+      "primary": "Lato:wght@300;400;700",
+      "primary_type": "Poppins"
+    },
+    "font_size": {
+      "base": "16",
+      "scale": "1.250"
+    }
+  }
+}
